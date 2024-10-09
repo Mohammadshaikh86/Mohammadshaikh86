@@ -35,7 +35,11 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw35hhCLykrqqn0yq_f-KwDE&ust=1728539522011000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi1o9TNgIkDFQAAAAAdAAAAABAE" height="40" alt="go logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   
 
